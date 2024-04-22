@@ -7,10 +7,15 @@ body{
 }
 
 h1{
-    font-size: 15rem;
+    font-size: 5rem;
     font-family: Montserrat;
 }
 
 .letter{
     transition: color 1000ms;
+}
+
+#firstsec{
+position: relative;
+margin-left: 7rem;
 }
